@@ -1,0 +1,6 @@
+C:\source\repos\Invoke-Knockout\Invoke-Knockout\bin\Debug\Invoke-Knockout.dll
+C:\source\repos\Invoke-Knockout\Invoke-Knockout\bin\Debug\Invoke-Knockout.pdb
+C:\source\repos\Invoke-Knockout\Invoke-Knockout\obj\Debug\Invoke-Knockout.csproj.AssemblyReference.cache
+C:\source\repos\Invoke-Knockout\Invoke-Knockout\obj\Debug\Invoke-Knockout.csproj.CoreCompileInputs.cache
+C:\source\repos\Invoke-Knockout\Invoke-Knockout\obj\Debug\Invoke-Knockout.dll
+C:\source\repos\Invoke-Knockout\Invoke-Knockout\obj\Debug\Invoke-Knockout.pdb
