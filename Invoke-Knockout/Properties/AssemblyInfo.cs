@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Invoke-Knockout")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("System.Runtime.Extensions")]
+[assembly: AssemblyDescription("System runtime extension utilities")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Invoke-Knockout")]
-[assembly: AssemblyCopyright("Copyright LongWayHomie © 2022")]
+[assembly: AssemblyCompany("Microsoft Corporation")]
+[assembly: AssemblyProduct("Microsoft .NET Framework")]
+[assembly: AssemblyCopyright("Copyright © Microsoft Corporation 2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
